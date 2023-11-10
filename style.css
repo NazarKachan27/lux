@@ -194,10 +194,7 @@ input[name="r"] {
    width: 800px;   
    height: 100%;   
 }   
-.img1 {   
-   width: 800px;   
-   height: 100%;   
-}  
+
 #r1:checked ~ .s1 {   
    margin-left: -0%;   
 }   
